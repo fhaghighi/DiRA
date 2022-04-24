@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+tqdm
+sklearn
+scikit-image
+scikit-learn
+simpleitk
+scipy
+timm
+Pillow
+pretrainedmodels
+efficientnet_pytorch
