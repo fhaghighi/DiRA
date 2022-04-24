@@ -1,4 +1,4 @@
-# DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis
+# [CVPR'2022] DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis
 
 This repository provides a PyTorch implementation of the [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis]() which is published in [CVPR](https://cvpr2022.thecvf.com/) 2022 (main conference).
 
