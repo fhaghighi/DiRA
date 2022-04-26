@@ -1,6 +1,6 @@
 # [CVPR'22] DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis
 
-This repository provides a PyTorch implementation of the [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis]() which is published in [CVPR](https://cvpr2022.thecvf.com/) 2022 (main conference).
+This repository provides a PyTorch implementation of the [DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis](https://arxiv.org/pdf/2204.10437.pdf) which is published in [CVPR](https://cvpr2022.thecvf.com/) 2022 (main conference).
 
 Discriminative learning, restorative learning, and adversarial learning have proven beneficial for self-supervised learning schemes in computer vision and medical imaging. Existing efforts, however, omit their synergistic effects on each other in a ternary setup, which, we envision, can significantly benefit deep semantic representation learning. To realize this vision, we have developed DiRA, the first framework that unites discriminative, restorative, and adversarial learning in a unified manner to collaboratively glean complementary visual information from unlabeled medical images for fine-grained semantic representation learning. 
 
