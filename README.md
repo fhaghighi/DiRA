@@ -16,7 +16,7 @@ Discriminative learning, restorative learning, and adversarial learning have pro
 Published in: **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.**
 
 
-[Paper](#) | [Code](#) | [Poster](#) | [Slides](#) | Presentation ([YouTube](#), [YouKu](#))
+[Paper](https://arxiv.org/pdf/2204.10437.pdf) | [Code](https://github.com/fhaghighi/DiRA) | [Poster](#) | Presentation (#)
 
 ## Major results from our work
 1. **DiRA enriches discriminative learning.**
