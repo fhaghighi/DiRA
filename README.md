@@ -132,6 +132,14 @@ print("missing keys:", msg.missing_keys)
 ## Citation
 If you use this code or use our pre-trained weights for your research, please cite our paper:
 ```
+@misc{haghighi2022dira,
+      title={DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis}, 
+      author={Fatemeh Haghighi and Mohammad Reza Hosseinzadeh Taher and Michael B. Gotway and Jianming Liang},
+      year={2022},
+      eprint={2204.10437},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 ## Acknowledgement
 With the help of Zongwei Zhou, Zuwei Guo started implementing the earlier ideas behind ``United & Unified'', which has branched out into DiRA. We thank them for their feasibility exploration, especially their initial evaluation on TransVW and various training strategies. This research has been supported in part by ASU and Mayo Clinic through a Seed Grant and an Innovation Grant and in part by the NIH under Award Number R01HL128785. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH. This work  utilized the GPUs provided in part by the ASU Research Computing and in part by the Extreme Science and Engineering Discovery Environment (XSEDE) funded by the National Science Foundation (NSF) under grant number ACI-1548562.  Paper content is covered by patents pending. We build U-Net architecture for segmentation tasks by referring to the released code at [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch). The instance discrimination is based on [MoCo](https://github.com/facebookresearch/moco).
